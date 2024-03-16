@@ -1,3 +1,3 @@
 # bookbot---boot.dev
 
-Hello GitHub, my first project.
+Hello GitHub, my first project
